@@ -1,3 +1,3 @@
-import subprocess
+import webbrowser
 
-subprocess.Popen("C:\Program Files (x86)\Google\Chrome\Application\chrome.exe")
+webbrowser.open("www.google.com")
